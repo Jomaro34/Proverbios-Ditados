@@ -1,16 +1,58 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dicionário de Provérbios</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dicionário de Provérbios e Ditados</title>
+  <meta name="keywords" content="Jomaro Cabrela, José Rodrigies, Provérbios, adágios, ditados, máximas, aforismos e frases feitas, gírias, regionalismos" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+
+    #results, .intro, .credits, .pdf-link, .search-container {
+      max-width: 800px;   /* limita largura em ecrãs grandes */
+      margin: 0 auto;     /* centraliza no ecrã */
+      padding: 0 15px;    /* dá algum respiro nas margens */
+      box-sizing: border-box;
+    }
+  </style>
 </head>
 <body>
-  <h1>Dicionário de Provérbios</h1>
-  
-  <input id="search" type="text" placeholder="Pesquisar provérbio...">
+  <!-- Logo substitui o título -->
+  <div class="logo-container">
+    <img src="proverbios_ditados.png" alt="Dicionário de Provérbios e Ditados" class="logo">
+  </div>
+
+  <!-- Caixa de pesquisa -->
+  <p class="search-container">
+    <input id="search" type="text" autofocus placeholder="Pesquisar ..." />
+  </p>
+
   <div id="results"></div>
+
+  <p aria-hidden="true">&nbsp;</p>
+  <p class="intro">
+    O <em>Dicionário de Provérbios e Ditados</em> é um projecto que pretende reunir, divulgar e dar significado a provérbios, adágios, ditados, máximas, aforismos e frases feitas.
+  </p>
+
+  <p id="texto-invisivel" aria-hidden="true">texto invisível para substituir</p>
+
+  <!-- Foto e créditos -->
+  <div class="credits">
+    <img src="JomaroCabrelaPB_LR.jpg" alt="Jomaro Cabrela" class="author-photo"><br>
+    <p>&copy; Jomaro Cabrela / José Rodrigues</p>
+  </div>
+
+  <!-- Link para o PDF -->
+  <p class="pdf-link">
+    <a href="https://www.facebook.com/groups/jomarocabrelaproverbiosditadoscitacoes" target="_blank">
+      Link para a página de Grupo
+    </a>
+  </p>
 
   <script src="script.js"></script>
 </body>
