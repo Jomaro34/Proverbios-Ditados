@@ -1,59 +1,105 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Dicionário de Provérbios e Ditados</title>
-  <meta name="keywords" content="Jomaro Cabrela, José Rodrigies, Provérbios, adágios, ditados, máximas, aforismos e frases feitas, gírias, regionalismos" />
-  <link rel="stylesheet" href="style.css" />
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: sans-serif;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Provérbios e Ditados</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link para o CSS externo -->
+    <style>
+        /* ===== Reset básico ===== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    #results, .intro, .credits, .pdf-link, .search-container {
-      max-width: 800px;   /* limita largura em ecrãs grandes */
-      margin: 0 auto;     /* centraliza no ecrã */
-      padding: 0 15px;    /* dá algum respiro nas margens */
-      box-sizing: border-box;
-    }
-  </style>
+        /* ===== Corpo da página ===== */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center; /* Centraliza textos por padrão */
+        }
+
+        /* ===== Imagem superior ===== */
+        .imagem-centralizada {
+            display: block;           /* Trata a imagem como bloco */
+            margin-left: auto;        /* Centraliza horizontalmente */
+            margin-right: auto;       /* Centraliza horizontalmente */
+            width: 90%;               /* Ocupa 90% da largura do contêiner */
+            max-width: 600px;         /* Limita a largura máxima */
+            height: auto;             /* Mantém proporção */
+            margin-top: 20px;         /* Espaço acima */
+            margin-bottom: 20px;      /* Espaço abaixo */
+            border-radius: 10px;      /* Opcional: cantos arredondados */
+        }
+
+        /* ===== Cabeçalhos ===== */
+        h1, h2, h3 {
+            margin-bottom: 15px;
+        }
+
+        /* ===== Parágrafos ===== */
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+            padding: 0 10px; /* Evita que o texto encoste na borda em telas pequenas */
+        }
+
+        /* ===== Links ===== */
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* ===== Responsividade ===== */
+        @media (max-width: 768px) {
+            .imagem-centralizada {
+                width: 95%;          /* Aumenta ocupação em telas pequenas */
+                max-width: 100%;     /* Garante que não ultrapasse o contêiner */
+            }
+
+            p {
+                padding: 0 5px;      /* Ajusta espaçamento em telas pequenas */
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            h2 {
+                font-size: 1.2em;
+            }
+        }
+    </style>
 </head>
 <body>
-  <!-- Logo substitui o título -->
-  <div class="logo-container">
-    <img src="proverbios_ditados.png" alt="Dicionário de Provérbios e Ditados" class="logo">
-  </div>
+    <!-- ===== Imagem de cima ===== -->
+    <img src="imagem-capa.jpg" alt="Imagem de Capa" class="imagem-centralizada">
 
-  <!-- Caixa de pesquisa -->
-  <p class="search-container">
-    <input id="search" type="text" autofocus placeholder="Pesquisar ..." />
-  </p>
+    <!-- ===== Título ===== -->
+    <h1>Provérbios e Ditados Populares</h1>
 
-  <div id="results"></div>
+    <!-- ===== Conteúdo ===== -->
+    <p>Bem-vindo ao nosso site de provérbios e ditados! Aqui você encontrará uma coleção de sabedoria popular para todos os momentos da vida.</p>
 
-  <p aria-hidden="true">&nbsp;</p>
-  <p class="intro">
-    O <em>Dicionário de Provérbios e Ditados</em> é um projecto que pretende reunir, divulgar e dar significado a provérbios, adágios, ditados, máximas, aforismos e frases feitas.
-  </p>
+    <h2>Exemplos de Provérbios</h2>
+    <p>"Quem espera sempre alcança."</p>
+    <p>"Mais vale um pássaro na mão do que dois a voar."</p>
 
-  <p id="texto-invisivel" aria-hidden="true"></p>
+    <!-- ===== Link externo ===== -->
+    <p>Visite também <a href="https://jomaro34.github.io/Proverbios-Ditados/">nosso site completo</a> para mais provérbios.</p>
 
-  <!-- Foto e créditos -->
-  <div class="credits">
-    <img src="JomaroCabrelaPB_LR.jpg" alt="Jomaro Cabrela" class="author-photo"><br>
-    <p>&copy; Jomaro Cabrela / José Rodrigues</p>
-  </div>
-
-  <!-- Link para o PDF -->
-  <p class="pdf-link">
-    <a href="https://www.facebook.com/groups/jomarocabrelaproverbiosditadoscitacoes" target="_blank">
-      Link para a página de Grupo
-    </a>
-  </p>
-
-  <script src="script.js"></script>
+    <!-- ===== Rodapé ===== -->
+    <footer>
+        <p>&copy; 2025 Provérbios e Ditados. Todos os direitos reservados.</p>
+    </footer>
 </body>
 </html>
+
