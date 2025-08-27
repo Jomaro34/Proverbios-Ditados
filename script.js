@@ -1,8 +1,12 @@
 let dicionario = [];
 
 async function carregarDicionario() {
-  const resp = await fetch('proverbios_ditados.json');
-  dicionario = await resp.json();
+  try {
+    const resp = await fetch('proverbios_ditados.json');
+    dicionario = await resp.json();
+  } catch (erro) {
+    console.error("Erro ao carregar o dicionário:", erro);
+  }
 }
 
 function pesquisar(termo) {
@@ -22,8 +26,10 @@ function pesquisar(termo) {
   });
 }
 
-document.getElementById('search').addEventListener('input', (e) => {
-  pesquisar(e.target.value);
-});
+window.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('search').addEventListener('input', (e) => {
+    pesquisar(e.target.value);
+  });
 
-carregarDicionario();
+  carregarDicionario();
+});
