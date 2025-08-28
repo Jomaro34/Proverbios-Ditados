@@ -63,11 +63,9 @@ body {
 .note {
   max-width: 800px;
   margin: 20px auto;
-  padding: 0 15px;   /* garante margem lateral como os outros */
   text-align: center;
   font-size: 0.9rem;
   color: #555;
-  box-sizing: border-box;
 }
 
 /* Ajustes específicos para telemóvel */
@@ -76,4 +74,3 @@ body {
     padding: 15px; /* aumenta espaço lateral no mobile */
   }
 }
-
