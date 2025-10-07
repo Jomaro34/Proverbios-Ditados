@@ -13494,5 +13494,941 @@
   {
     "Palavra": "Zona de conforto",
     "Significado": "A zona de conforto é o espaço mental ou emocional onde uma pessoa evita riscos, desafios ou mudanças, mantendo-se dentro do que lhe é familiar e confortável, mesmo que isso limite o crescimento pessoal ou profissional."
+  },
+{
+    "Palavra": "Falar para o boneco",
+    "Significado": "Falar sem que ninguém ouça, ligue ou preste atenção. A origem não é totalmente certa, mas pensa-se que venha do teatro de marionetas e da ventriloquia, onde o boneco «fala» apenas porque alguém lhe dá voz, simbolizando a falta de resposta do interlocutor."
+  },
+  {
+    "Palavra": "Já cá canta",
+    "Significado": "Quer dizer já está conseguido, já está tratado, já foi obtido ou resolvido. Usa-se quando alguém alcança algo que desejava — pode ser um objecto, uma tarefa concluída ou um objectivo atingido. Não há fontes que confirmem a origem exacta da expressão, mas registos do século XIX mostram o uso de cantar em expressões idiomáticas ligadas à posse de dinheiro, como «cantar dinheiro na algibeira» (ter dinheiro). Assim, «já cá canta» terá surgido com o sentido de «já cá tenho o dinheiro», evoluindo depois para «já consegui o que queria» ou «já ganhei»."
+  },
+  {
+    "Palavra": "João Pestana",
+    "Significado": "Figura mitológica do folclore português, personificação do sono, usada para indicar que alguém vai adormecer ou está sonolento. A sua origem remonta a canções de ninar transmitidas oralmente desde o século XIX ou antes, sendo comparável ao Sandman inglês."
+  },
+  {
+    "Palavra": "Na casca é que está a vitamina",
+    "Significado": "Expressão popular portuguesa que se originou do facto de a casca das frutas conter vitaminas; é usada metaforicamente para indicar que o essencial ou mais valioso se encontra frequentemente onde menos se espera."
+  },
+  {
+    "Palavra": "Tenho cinco dedos na mão e nenhum é igual",
+    "Significado": "Significa que cada pessoa é única, com características, talentos ou funções próprias. Mesmo sendo da mesma família, cada um é diferente; o facto de uma pessoa ser má não implica que os outros também o sejam."
+  },
+  {
+    "Palavra": "O que o cu tem a ver com as calças?",
+    "Significado": "É usada para afirmar que algo dito ou feito não tem relação nenhuma com o assunto em discussão, sendo uma forma de apontar a falta de coerência."
+  },
+  {
+    "Palavra": "Podia ser pior",
+    "Significado": "Expressão popular portuguesa usada em acidentes ou situações imprevistas para tentar consolar ou mostrar optimismo. No entanto, raramente traz alívio real, podendo subestimar a dor alheia. Está ligada à aceitação do destino ou a uma visão religiosa, funcionando mais como estratégia psicológica pessoal do que como conforto efectivo."
+  },
+  {
+    "Palavra": "Entre mortos e feridos, alguém há-de escapar",
+    "Significado": "Significa que, num desastre, conflito ou situação difícil, mesmo que muitos sofram ou falhem, sempre haverá alguém que se salva ou sai ileso. É usada para transmitir uma ideia de esperança ou sobrevivência apesar do caos."
+  },
+  {
+    "Palavra": "Quem escorrega também cai",
+    "Significado": "Quem comete erros ou se expõe a riscos inevitavelmente sofrerá consequências."
+  },
+  {
+    "Palavra": "Volte face",
+    "Significado": "Significa uma mudança súbita de opinião, atitude ou comportamento, geralmente contrária à posição anterior."
+  },
+  {
+    "Palavra": "Pau de virar tripas",
+    "Significado": "Significa pessoa muito magra."
+  },
+  {
+    "Palavra": "Outra vaca no milho",
+    "Significado": "Significa mais um problema ou contratempo numa situação que já está complicada ou a correr mal."
+  },
+  {
+    "Palavra": "Não me estreei",
+    "Significado": "Significa que a pessoa ainda não realizou algo pela primeira vez ou não iniciou uma actividade/apresentação, ou seja, ainda não teve sua primeira experiência ou mostrado suas habilidades."
+  },
+  {
+    "Palavra": "Não tem uma moeda para mandar cantar um cego",
+    "Significado": "Significa que não se tem dinheiro nem sequer para as coisas mais básicas ou para atividades de pouco valor. A origem está ligada à antiga prática dos cegos pedirem esmolas em troca de cantigas."
+  },
+  {
+    "Palavra": "A torto e a direito",
+    "Significado": "Significa agir de forma indiscriminada, irrefletida ou sem um objectivo certo, como se fosse «à toa», «às cegas» ou «para todos os lados»."
+  },
+  {
+    "Palavra": "Jogar num a cabine telefónica",
+    "Significado": "É uma expressão metafórica que descreve a realização de uma actividade em condições extremamente apertadas ou limitadas. A imagem de jogar num espaço tão exíguo sugere dificuldade, desconforto e até impossibilidade. No entanto, no contexto do futebol, a expressão é usada por comentadores e relatadores para enaltecer a destreza de um jogador que, mesmo rodeado de adversários e com pouco espaço para se movimentar, consegue dominar a bola e executar jogadas de grande qualidade."
+  },
+  {
+    "Palavra": "Sétima Arte",
+    "Significado": "É a expressão usada para designar o cinema, reconhecendo-o como forma artística completa que combina narrativa, imagem, som e movimento. A origem do termo remonta a Ricciotto Canudo, crítico e teórico italiano, que em 1911 publicou o Manifesto das Sete Artes, considerando o cinema como a sétima arte, sucedendo às seis artes tradicionais: arquitetura, escultura, pintura, música, dança e poesia."
+  },
+  {
+    "Palavra": "Cabeça enterrada na areia",
+    "Significado": "É uma metáfora usada para descrever alguém que ignora problemas ou situações difíceis, fingindo que não existem, em vez de enfrentá-los."
+  },
+  {
+    "Palavra": "Fair play",
+    "Significado": "É uma expressão inglesa que significa jogo limpo ou comportamento honesto e respeitador das regras e adversários, sobretudo no desporto. Surgiu no século XIX no Reino Unido com a codificação de modalidades como futebol e ténis, valorizando não apenas a vitória, mas também a ética e a integridade. Actualmente, o termo é usado também fora do contexto desportivo para designar conduta ética e respeito pelas normas em qualquer situação."
+  },
+  {
+    "Palavra": "No meu tempo é que era bom",
+    "Significado": "Esta expressão é usada para exprimir nostalgia pelo passado, sugerindo que os tempos vividos anteriormente eram melhores, mais simples ou mais felizes do que o presente. Reflecte a tendência das gerações mais velhas de idealizar a sua juventude e experiências passadas, muitas vezes contrastando com a modernidade ou as mudanças sociais, e destaca o carácter subjectivo da percepção do que é considerado «bom»."
+  },
+  {
+    "Palavra": "Não vai mais vinho para essa mesa",
+    "Significado": "É uma expressão usada figurativamente, por vezes de forma cómica, para indicar que uma situação terminou ou que algo não será mais concedido ou tolerado. Significa que a pessoa ou grupo em questão ultrapassou os limites, comportando-se de forma inadequada, e por isso deixará de receber privilégios, atenção ou benefícios."
+  },
+  {
+    "Palavra": "Meter o chico",
+    "Significado": "É uma gíria portuguesa que significa entrar na carreira militar após cumprir o serviço militar obrigatório. A expressão tem origem no termo «Chico», usado para designar os militares de carreira, e inicialmente tinha um tom depreciativo, referindo-se aos soldados ou oficiais milicianos que optavam por permanecer na vida militar, sendo vistos como desprezíveis pelos seus pares."
+  },
+  {
+    "Palavra": "A onde vais cheio de léria",
+    "Significado": "Refere-se a alguém que se apresenta vaidoso, bem vestido ou todo janota, destacando presunção e preocupação excessiva com a aparência ou postura."
+  },
+  {
+    "Palavra": "Estás com uma léria",
+    "Significado": "É usada para indicar que alguém está a dizer disparates, gabarolices, conversas inúteis ou coisas sem sentido."
+  },
+  {
+    "Palavra": "Tem um mau feitio",
+    "Significado": "Significa ter um temperamento difícil, irritável ou um caráter desagradável, caracterizado por um comportamento inadequado, arrogante ou desrespeitoso. Feitio -  pode referir-se à forma ou aspecto de uma coisa; à maneira de ser de uma pessoa, isto é, ao seu carácter ou temperamento; além disso, pode significar o trabalho ou corte feito por um artesão. "
+  },
+  {
+    "Palavra": "Fazenda em duas aldeias, pão em duas taleigas",
+    "Significado": "A expressão sugere a ideia de diversificar ou distribuir bens, recursos ou esforços entre dois lugares ou partes, como uma estratégia para garantir segurança, sustento ou estabilidade. Taleiga é um saco ou alforge usado para transportar ou guardar mantimentos, especialmente pão ou cereais. "
+  },
+  {
+    "Palavra": "Foi servir numa casa de família",
+    "Significado": "Esta expressão geralmente significa que a pessoa foi trabalhar como empregada doméstica; criada."
+  },
+  {
+    "Palavra": "Estar atento",
+    "Significado": "Significa estar alerta, vigilante, prestando atenção a algo."
+  },
+  {
+    "Palavra": "Fugir caladinho com o rabo entre as pernas",
+    "Significado": "É uma forma popular e até um pouco irónica de dizer que alguém se retirou discretamente, envergonhado ou derrotado, sem enfrentar a situação."
+  },
+  {
+    "Palavra": "Tábua rasa",
+    "Significado": "Tabula rasa é uma expressão latina que significa  «folha em branco» e representa a ideia de que a mente humana nasce sem conteúdos inatos, adquirindo todo conhecimento a partir da experiência e dos sentidos. A noção surgiu na filosofia antiga com Aristóteles e os estóicos, foi desenvolvida por pensadores islâmicos como Avicena e Ibn Tufail, incorporada por Tomás de Aquino e popularizada por John Locke no século XVII. Hoje, a ciência reconhece que, embora a experiência seja fundamental, fatores genéticos e biológicos também influenciam a mente. «Fazer tábua rasa»  significa apagar ou ignorar completamente algo do passado e recomeçar do zero."
+  },
+  {
+    "Palavra": "A rapariga sai ao pai",
+    "Significado": "Significa que a menina se parece com o pai, seja fisicamente ou no caráter e traços de personalidade."
+  },
+  {
+    "Palavra": "Fez uma peixeirada",
+    "Significado": "Significa causar confusão, gritaria ou discussão acalorada."
+  },
+  {
+    "Palavra": "Em cima do joelho",
+    "Significado": "Realizar uma tarefa sem planejamento ou atenção aos detalhes, normalmente com resultados medíocres."
+  },
+  {
+    "Palavra": "Fazer um ponto",
+    "Significado": "Em contexto escolar, refere-se a realizar um teste ou exame para obter uma nota ou avaliação."
+  },
+  {
+    "Palavra": "Comigo não faz farinha",
+    "Significado": "Não vai me enganar ou não tente aproveitar-se de mim."
+  },
+  {
+    "Palavra": "Esperteza saloia",
+    "Significado": "Astúcia prática, às vezes desonesta, usada por quem está em posição menos privilegiada para obter vantagem ou se proteger."
+  },
+  {
+    "Palavra": "Três, a conta que Deus fez",
+    "Significado": "É um ditado popular português que originalmente se refere à Santíssima Trindade: Pai, Filho e Espírito Santo. De forma poética, indica que Deus organizou tudo em três partes divinas. Além do sentido religioso, a expressão é usada popularmente para sugerir que algo está completo, equilibrado ou perfeito quando se apresenta em grupos de três."
+  },
+  {
+    "Palavra": "Tem um feitio!",
+    "Significado": "Sugere que a pessoa tem uma maneira de ser difícil, particular ou caprichosa, sem se dizer directamente que é negativa. Feitio -  pode referir-se à forma ou aspecto de uma coisa; à maneira de ser de uma pessoa, isto é, ao seu carácter ou temperamento; além disso, pode significar o trabalho ou corte feito por um artesão."
+  },
+  {
+    "Palavra": "Mulher sem vergonha, pior que peçonha",
+    "Significado": "É uma expressão pejorativo que compara a mulher considerada desavergonhada a um veneno, insinuando que é nociva e perigosa para os outros. Peçonha é o veneno que alguns animais segregam, estendendo-se o termo a qualquer substância tóxica; em linguagem figurada, exprime o que corrói a saúde ou fere os bons costumes, mas também a astúcia maliciosa e a própria maldade humana."
+  },
+  {
+    "Palavra": "Pobreza e alegria nunca dormem numa cama",
+    "Significado": "Sugere que dificilmente se encontram conforto e felicidade plena quando há pobreza."
+  },
+  {
+    "Palavra": "Pobreza é inimiga da virtude",
+    "Significado": "A falta de recursos materiais dificulta a prática de boas acções ou a manutenção de comportamentos virtuosos."
+  },
+  {
+    "Palavra": "Pobreza não é vergonha",
+    "Significado": "Ser pobre não é motivo de desonra ou vergonha."
+  },
+  {
+    "Palavra": "Pobreza não é vileza",
+    "Significado": "Ser pobre não torna ninguém vil ou desonesto."
+  },
+  {
+    "Palavra": "Poda curta, vindima longa",
+    "Significado": "Vem da sabedoria agrícola e significa que quanto mais curta for a poda da videira, maior e melhor será a colheita."
+  },
+  {
+    "Palavra": "Podar em Marco é ser madraço",
+    "Significado": "Significa que quem deixa a poda da vinha para Março é preguiçoso ou descuidado, pois a poda deve ser feita mais cedo, no Inverno, para garantir uma boa produção."
+  },
+  {
+    "Palavra": "Pode dormir quem tem uma dor; mas não dormirá um devedor",
+    "Significado": "A dor física ainda permite algum descanso, mas a preocupação com dívidas tira o sono."
+  },
+  {
+    "Palavra": "Pode levar-se um cavalo à água, mas não se consegue obrigá-lo a beber",
+    "Significado": "Significa que podemos oferecer oportunidades ou mostrar o caminho a alguém, mas não podemos forçá-lo a aproveitá-las."
+  },
+  {
+    "Palavra": "Livre-arbítrio",
+    "Significado": "É a capacidade de cada pessoa tomar decisões de forma autónoma, escolhendo entre diferentes opções sem estar totalmente determinada por forças externas ou internas."
+  },
+  {
+    "Palavra": "Pode viver-se sem irmãos, mas não sem amigos",
+    "Significado": "Significa que, embora se possa sobreviver sem familiares próximos, a amizade verdadeira é essencial para o bem-estar e a vida social."
+  },
+  {
+    "Palavra": "Por afeição te casaste, a trabalho te entregaste",
+    "Significado": "Significa que o casamento pode começar por amor, mas a vida a dois exige esforço e dedicação."
+  },
+  {
+    "Palavra": "Por amor dos santos se adoram os altares",
+    "Significado": "Significa que respeitamos ou veneramos algo não pelo seu valor próprio, mas por estar ligado a alguém ou algo que realmente amamos ou respeitamos, expressando assim a nossa reverência de forma indireta através dos elementos que lhes estão associados."
+  },
+  {
+    "Palavra": "Por causa do santo se beija o altar",
+    "Significado": "Significa que os gestos, esforços ou rituais que realizamos têm valor pelo que representam, e não pelo objecto em si. Em sentido figurado, indica que suportamos ou praticamos certas acções por respeito, devoção ou pelo objectivo maior que perseguimos."
+  },
+  {
+    "Palavra": "Por causa do santo beijamos as pedras",
+    "Significado": "Significa que suportamos dificuldades, desafios ou obstáculos em nome de algo ou alguém que valorizamos. Em sentido figurado, ensina que os objectivos, a fé ou o amor justificam os esforços e sacrifícios no caminho para alcançá-los."
+  },
+  {
+    "Palavra": "Por amor, tudo se acaba",
+    "Significado": "Sugere que o amor pode transformar a vida, pondo fim a hábitos, desejos ou situações antigas. Pode ter um sentido negativo, quando leva ao desgaste ou à perda, e positivo, quando ajuda a terminar conflitos e a trazer paz."
+  },
+  {
+    "Palavra": "Por bem fazer, mal haver",
+    "Significado": "significa que quem faz um favor ou um ato de bondade (por bem fazer) pode ser recompensado com um prejuízo ou uma desfeita (mal haver), ou seja, ser pago com ingratidão. "
+  },
+  {
+    "Palavra": "Por casa nem por vinha, não cases com mulher parida",
+    "Significado": "Este provérbio antigo, aconselha a evitar casar com uma mulher que já tenha filhos, devido às despesas, responsabilidades e possíveis conflitos que isso pode trazer, independentemente da sua riqueza ou bens."
+  },
+  {
+    "Palavra": "Por falta de um alho, não se há-de perder o molho",
+    "Significado": "Não se deve desperdiçar ou abandonar algo valioso por causa de uma pequena falha ou detalhe insignificante."
+  },
+  {
+    "Palavra": "Por falta de um prego, perdeu-se a ferradura",
+    "Significado": "Uma pequena negligência ou detalhe negligenciado pode causar grandes prejuízos ou perdas."
+  },
+  {
+    "Palavra": "Por mais que o amor se encubra, mal se dissimula",
+    "Significado": "O amor verdadeiro é difícil de esconder; mesmo quando alguém tenta disfarçá-lo, ele acaba por se revelar através de atitudes, gestos ou comportamentos."
+  },
+  {
+    "Palavra": "Por mal, não se leva um português; por bem, levam-se dois ou três",
+    "Significado": "Significa que é mais eficaz conseguir algo com gentileza, amizade ou persuasão do que com violência ou imposição. "
+  },
+  {
+    "Palavra": "Por mau vizinho, não desfaças teu ninho",
+    "Significado": "Significa que não se deve abandonar ou destruir o que é nosso por causa de problemas ou desavenças com os outros. Por outras palavras, não se deve prejudicar a si próprio devido à má convivência alheia."
+  },
+  {
+    "Palavra": "Por morrer uma andorinha, não acaba a Primavera",
+    "Significado": "Significa que uma perda ou contratempo isolado não deve ser motivo para desespero, pois a vida continua; por outras palavras, um evento negativo não invalida o todo ou o curso natural das coisas."
+  },
+  {
+    "Palavra": "Por muito madrugar, não amanhece mais cedo",
+    "Significado": "Não adianta apressar o que depende do seu tempo; há processos naturais que não podem ser forçados."
+  },
+  {
+    "Palavra": "Por muito que queira Julho ser, pouco há-de chover",
+    "Significado": "Ensina que algumas coisas estão fora do nosso controlo e devem ser aceites como inevitáveis."
+  },
+  {
+    "Palavra": "Por riqueza, não te exaltes; por pobreza, não te rebaixes",
+    "Significado": "Significa que não se deve deixar que a fortuna ou a falta dela alterem o comportamento ou a postura pessoal."
+  },
+  {
+    "Palavra": "Por Santo André, todo o dia noite é",
+    "Significado": "Refere-se ao clima ou à duração do dia, indicando que no dia de Santo André (30 de Novembro) os dias são curtos e escuros, como se fosse noite durante quase todo o dia."
+  },
+  {
+    "Palavra": "Por Santo Urbão, gavião na mão",
+    "Significado": "É um provérbio popular sazonal ligado à captura de aves de rapina, como o gavião. Existem várias datas associadas a diferentes Papas Urbano — como 25 de Maio, 3 de Novembro ou 19 de Dezembro —, sendo esta última (19 de Dezembro, Papa Urbano V, beatificado pelo Papa Pio IX em 1870) a que parece estar mais associada na tradição popular. O provérbio indica o momento certo para capturar ou caçar gaviões. O sentido não é literal, mas simboliza a importância de agir no tempo certo na natureza, antes que seja tarde ou que o recurso desapareça."
+  },
+  {
+    "Palavra": "Por São Clemente alça a mão da semente",
+    "Significado": "É um ditado popular português relacionado com o calendário agrícola, sinalizando o momento adequado para a sementeira de cereais e leguminosas, associado ao dia de São Clemente (23 de Novembro)."
+  },
+  {
+    "Palavra": "Por São Gil aduba teu candil",
+    "Significado": "Aconselha a preparar-se atempadamente para o futuro, especialmente na agricultura: por volta de 1 de Setembro (dia de São Gil/São Egídio), é hora de adubar a terra e preparar a sementeira de Outono. Em suma, a essência do provérbio é a importância de antecipar e preparar o trabalho agrícola para garantir uma boa colheita. «Candil» era um dispositivo portátil usado para iluminação."
+  },
+  {
+    "Palavra": "Por São Martinho, nem favas nem vinho",
+    "Significado": "Indica que, por volta de 11 de Novembro (dia de São Martinho), as favas ainda não estão prontas para colher e o vinho novo ainda não está pronto para beber."
+  },
+  {
+    "Palavra": "Por São Vicente toda a água é quente",
+    "Significado": "Refere-se ao veranico (verão) de São Vicente, um breve período de temperaturas amenas em Janeiro que suaviza o rigor do inverno. A expressão «toda a água é quente» é uma hipérbole, indicando que, nesse período, a água parece menos fria. A sua origem está na observação empírica das comunidades rurais, que utilizavam o dia de São Vicente (22 de Janeiro) como referência para mudanças climáticas e para organizar actividades agrícolas, transmitindo esse conhecimento de geração em geração como parte da sabedoria popular portuguesa. Veranico - período de tempo seco, com temperaturas elevadas, que ocorre durante a estação chuvosa ou o inverno em algumas regiões."
+  },
+  {
+    "Palavra": "Por sete que sabem cantar, há um que sabe falar",
+    "Significado": "Significa que, embora muitas pessoas possuam talento para se expressar de forma artística ou emocional, como cantar, são poucas as que têm a habilidade de se comunicar com clareza e convicção, ou seja, de «saber falar» no sentido de articular bem as ideias e persuadir."
+  },
+  {
+    "Palavra": "Por três dias de ralhar, ninguém deixe de casar",
+    "Significado": "significa que pequenos desentendimentos ou contratempos temporários não devem impedir a realização de acontecimentos importantes, como o casamento. Em essência, ensina a valorizar o essencial e não se deixar atrapalhar por problemas passageiros."
+  },
+  {
+    "Palavra": "Por um cravo se perde um cavalo",
+    "Significado": "O ditado «Por um cravo se perde um cavalo» é uma forma abreviada do provérbio tradicional: «Por um cravo se perde a ferradura, por uma ferradura perde-se o cavalo, por um cavalo perde-se o cavaleiro, por um cavaleiro perde-se a batalha, por uma batalha perde-se o reino» e ensina que pequenos descuidos podem gerar grandes consequências. Um simples prego que falta na ferradura pode comprometer o cavalo, o cavaleiro e até o desfecho de uma batalha, mostrando como detalhes aparentemente insignificantes podem ter impacto decisivo em resultados maiores."
+  },
+  {
+    "Palavra": "Por uns pagam os outros",
+    "Significado": "Exprime a ideia de que inocentes sofrem as consequências das faltas ou erros cometidos por terceiros."
+  },
+  {
+    "Palavra": "Pouco aprende quem muito dorme",
+    "Significado": "Excesso de sono ou de preguiça reduz as oportunidades de aprender e de aproveitar o tempo de forma útil."
+  },
+  {
+    "Palavra": "Pouco dói o mal alheio",
+    "Significado": "As desgraças ou sofrimentos dos outros raramente nos tocam com a mesma intensidade com que sentimos os nossos próprios"
+  },
+  {
+    "Palavra": "Pouco manda quem quer que muito lhe obedeçam",
+    "Significado": "Ensina que a autoridade excessivamente imposta revela fraqueza: quem tem verdadeiro poder não precisa forçar a obediência, pois lidera pelo respeito e não pelo medo."
+  },
+  {
+    "Palavra": "Manda quem pode",
+    "Significado": "Significa que o poder e a autoridade estão nas mãos de quem tem força, influência ou recursos para impor decisões, independentemente de justiça ou legitimidade."
+  },
+  {
+    "Palavra": "Pouco veneno não mata",
+    "Significado": "Significa que certos males ou perigos só têm efeito quando são suficientemente fortes ou em quantidade significativa."
+  },
+  {
+    "Palavra": "Poupa-se no farelo e gasta-se na farinha",
+    "Significado": "Significa que quem economiza em coisas de pouco valor acaba por gastar mais naquilo que é realmente importante, sublinhando a necessidade de dar prioridade ao essencial."
+  },
+  {
+    "Palavra": "Poupai o vosso, não mendigareis o alheio",
+    "Significado": "Quem poupa e gere bem os seus recursos não precisará depender ou pedir ajuda aos outros."
+  },
+  {
+    "Palavra": "Poupa na cozinha e aumentarás a tua casinha",
+    "Significado": "Significa que economizar nas pequenas despesas do dia a dia permite acumular recursos para melhorias ou projectos maiores."
+  },
+  {
+    "Palavra": "Poupa o teu vintém, serás um dia alguém",
+    "Significado": "Quem aprende a poupar desde cedo e administra bem o seu dinheiro terá mais chances de sucesso e independência no futuro. "
+  },
+  {
+    "Palavra": "P",
+    "Significado": "Significa que quem se depara com uma pessoa má ou desonesta deve responder com igual ou maior firmeza, não se deixando dominar ou ser prejudicado."
+  },
+  {
+    "Palavra": "Procura a honra, não as honras",
+    "Significado": "Significa que se deve valorizar a integridade, o carácter e a dignidade pessoal, em vez de se procurar títulos, reconhecimento ou prestígio social. Sublinha a importância de colocar a ética acima das aparências e do prestígio."
+  },
+  {
+    "Palavra": "Primeiro a obrigação, depois a devoção",
+    "Significado": "É essencial cumprir primeiro os deveres e responsabilidades antes de se dedicar a prazeres, vontades ou práticas religiosas."
+  },
+  {
+    "Palavra": "Primeiro os dentes, depois os parentes",
+    "Significado": "Significa que é necessário cuidar primeiro das próprias necessidades ou interesses antes de se preocupar com os dos outros, mesmo que sejam familiares. Sublinha a importância de garantir o próprio bem-estar antes de ajudar terceiros."
+  },
+  {
+    "Palavra": "Promessas não pagam dívidas",
+    "Significado": "Falar ou prometer algo não substitui acções concretas; apenas o cumprimento efectivo das responsabilidades tem valor real. "
+  },
+  {
+    "Palavra": "Prudente é saber calar, até ser tempo de falar",
+    "Significado": "Significa que a sabedoria inclui esperar o momento certo para se expressar, evitando falar precipitadamente ou sem necessidade."
+  },
+  {
+    "Palavra": "Quando a cabeça não tem juízo, o corpo é que paga",
+    "Significado": "A falta de bom senso ou de decisões acertadas traz consequências físicas, materiais ou práticas."
+  },
+  {
+    "Palavra": "Quando a fonte seca é que a água tem valor",
+    "Significado": "Muitas vezes só damos valor a algo quando o perdemos ou deixamos de ter acesso a ele."
+  },
+  {
+    "Palavra": "Quando bebes a água, pensa na nascente",
+    "Significado": "Devemos ser gratos e lembrar a origem do que recebemos."
+  },
+  {
+    "Palavra": "Quando chove na Ascensão, até as pedrinhas dão pão",
+    "Significado": "Expressa a crença popular de que a chuva no Dia da Ascensão, celebrado 40 dias após a Páscoa, traz fertilidade e garante boas colheitas."
+  },
+  {
+    "Palavra": "Quando Deus dá, é para todos",
+    "Significado": "As dádivas da natureza ou as bênçãos divinas chegam de forma colectiva e repartida, não sendo exclusivas de alguns. A chuva, o sol, a fartura ou as oportunidades, quando surgem, beneficiam a comunidade inteira, sem distinção. "
+  },
+  {
+    "Palavra": "Quando Deus fecha uma janela, abre uma porta",
+    "Significado": "Quando uma oportunidade se perde ou algo não corre como desejamos, surge sempre outra possibilidade ou solução alternativa."
+  },
+  {
+    "Palavra": "Quando Deus não quer, os santos não ajudam",
+    "Significado": "Significa que, por mais esforços, intercessões ou boas intenções que existam, nada acontece se não houver vontade divina."
+  },
+  {
+    "Palavra": "Quando dois burros zurram, um baixa as orelhas",
+    "Significado": "Numa disputa ou confronto, geralmente alguém cede ou recua para evitar conflitos desnecessários."
+  },
+  {
+    "Palavra": "Quando é velho o cão, se ladra é porque tem razão",
+    "Significado": "A experiência traz autoridade e sabedoria: uma pessoa experiente ou alguém que já passou por muitas situações geralmente tem motivos válidos quando alerta ou se opõe a algo."
+  },
+  {
+    "Palavra": "Quando fala a inocência, fala a verdade",
+    "Significado": "A inocência ou pureza de coração está associada à sinceridade; quem é inocente ou puro tende a dizer a verdade, sem enganos nem segundas intenções."
+  },
+  {
+    "Palavra": "Quando falta o dinheiro, falta tudo",
+    "Significado": "A falta de recursos financeiros compromete praticamente todas as áreas da vida: sem dinheiro, torna-se difícil satisfazer necessidades básicas, alcançar objectivos ou manter estabilidade."
+  },
+  {
+    "Palavra": "Quando há obrigações, não há devoções",
+    "Significado": "Quando algo é feito por obrigação ou por imposição, perde-se a espontaneidade e a verdadeira dedicação; a sinceridade do sentimento desaparece se a ação não for voluntária."
+  },
+  {
+    "Palavra": "Quando há santos novos, desprezam-se os velhos",
+    "Significado": "Reflecte uma tendência humana de valorizar o que é novo e actual em detrimento do que é antigo ou tradicional."
+  },
+  {
+    "Palavra": "Quando há vento, não há bom tempo",
+    "Significado": "Quando surgem dificuldades, problemas ou contratempos, é impossível desfrutar de tranquilidade ou paz. Reflecte a ideia de que certos factores externos perturbam o equilíbrio ou o conforto."
+  },
+  {
+    "Palavra": "Quando manda o apetite, paga a bolsa",
+    "Significado": "Significa que os desejos ou vontades pessoais têm um custo: se queres satisfazer apetites ou luxos, é preciso arcar com as consequências ou despesas."
+  },
+  {
+    "Palavra": "Quando o amo é glutão, passam fome o criado e o cão",
+    "Significado": "A ganância ou egoísmo de quem está no poder prejudica aqueles que dependem dele."
+  },
+  {
+    "Palavra": "Quando o dinheiro bate, todas as portas se abrem",
+    "Significado": "O dinheiro facilita o acesso a oportunidades, privilégios ou favores, mesmo em situações onde normalmente seria difícil conseguir ajuda ou aprovação."
+  },
+  {
+    "Palavra": "Quando o elefante está em dificuldade, até as rãs lhe dão coices",
+    "Significado": "Quando alguém poderoso ou importante enfrenta problemas ou fraquezas, até os mais pequenos ou insignificantes se sentem encorajados a atacá-lo ou prejudicá-lo."
+  },
+  {
+    "Palavra": "Quando o ganho é fácil, a despesa é louca",
+    "Significado": "Quando se obtém dinheiro ou benefícios sem esforço, tende-se a gastá-los de forma imprudente ou exagerada, sem pensar nas consequências."
+  },
+  {
+    "Palavra": "Quando o mal é de nação, nem a poder de sabão",
+    "Significado": "Quando um problema é grande e afeta toda a comunidade ou país, medidas pequenas ou individuais são insuficientes para o resolver."
+  },
+  {
+    "Palavra": "Quando o mar bate na rocha, quem se lixa é o mexilhão",
+    "Significado": "Quando há conflitos ou problemas entre os poderosos, são os mais fracos ou indefesos que acabam por sofrer as consequências."
+  },
+  {
+    "Palavra": "Quando o mar está calmo, qualquer um pode ir ao leme",
+    "Significado": "Quando tudo está tranquilo e sem dificuldades, qualquer pessoa consegue liderar ou tomar decisões; é nos momentos de crise que se revela quem realmente tem competência e coragem."
+  },
+  {
+    "Palavra": "Quando o médico é piedoso, está o doente perigoso",
+    "Significado": "Quando o médico demonstra excesso de compaixão ou hesita em agir com rigor, o doente corre maior risco; sugere que, em certas situações, a firmeza e a competência profissional são mais importantes do que a piedade."
+  },
+  {
+    "Palavra": "Quando o mestre canta, boa vai a obra",
+    "Significado": "Quando o líder ou responsável está motivado, satisfeito e dá o exemplo, o trabalho flui melhor e os resultados são mais eficazes."
+  },
+  {
+    "Palavra": "Quando o orgulho grita, o amor cala-se",
+    "Significado": "Significa que o orgulho ou a vaidade podem impedir a expressão de sentimentos, especialmente o amor; quando alguém está dominado pelo ego, relações e afeto podem ser prejudicados."
+  },
+  {
+    "Palavra": "Quando o sábio aponta para a Lua, o tonto olha para o dedo",
+    "Significado": "Significa que pessoas menos atentas ou menos inteligentes focam-se nos detalhes superficiais e perdem a mensagem ou o essencial que está a ser indicado."
+  },
+  {
+    "Palavra": "Quando os céus choram, a terra ri-se",
+    "Significado": "Significa que algo aparentemente negativo, como a chuva, pode trazer benefícios, fertilidade e renovação, simbolizando a capacidade de encontrar o lado positivo nas dificuldades."
+  },
+  {
+    "Palavra": "Quando os doentes bradam, os médicos ganham",
+    "Significado": "Significa que o sofrimento ou necessidade de alguém pode gerar benefício ou vantagem para outros, seja de forma literal ou figurativa."
+  },
+  {
+    "Palavra": "Quando os elefantes lutam, quem sofre é o capim",
+    "Significado": "Significa que, quando os poderosos ou influentes entram em conflito, são os mais fracos ou indefesos que acabam por sofrer as consequências."
+  },
+  {
+    "Palavra": "Quando os favores acabam, começa a ingratidão",
+    "Significado": "Significa que muitas vezes as pessoas só demonstram apreço ou gratidão enquanto recebem benefícios; quando esses terminam, a falta de reconhecimento ou a ingratidão aparece."
+  },
+  {
+    "Palavra": "Quando o vinho desce, as palavras sobem",
+    "Significado": "Ao consumir álcool, as pessoas tendem a falar mais, revelando pensamentos, sentimentos ou segredos que normalmente guardariam."
+  },
+  {
+    "Palavra": "Quando tosse o prior, bom é o sermão",
+    "Significado": "Quando há sinais de fraqueza, dificuldade ou alerta por parte de quem lidera ou orienta, os outros prestam mais atenção e o resultado (como um sermão, conselho ou ensino) tende a ser melhor recebido ou mais eficaz."
+  },
+  {
+    "Palavra": "Quando um cego leva a bandeira, ai de quem vai atrás",
+    "Significado": "Seguir alguém incompetente ou desorientado leva a problemas ou fracassos; quem lidera deve ter capacidade e visão, ou os seguidores sofrerão as consequências."
+  },
+  {
+    "Palavra": "Quando um pai é demasiado bom, os filhos não o são",
+    "Significado": "Significa que a indulgência ou excesso de permissividade por parte dos pais pode levar os filhos a comportamentos egoístas, desobedientes ou ingratos."
+  },
+  {
+    "Palavra": "Quando um perde, outro ganha",
+    "Significado": "Numa situação de competição ou conflito, a derrota de alguém geralmente representa a vitória de outro; há sempre vencedores e vencidos."
+  },
+  {
+    "Palavra": "Quando vem a glória, vai-se a memória",
+    "Significado": "Quando alguém alcança sucesso, reconhecimento ou poder, tende a esquecer as pessoas, acontecimentos ou esforços que o ajudaram a chegar lá."
+  },
+  {
+    "Palavra": "Quando vivem muito tempo juntos, os animais acabam por se amar e os homens por se odiar",
+    "Significado": "Significa que, ao contrário dos animais que tendem a criar laços ao conviverem, os humanos podem gerar conflitos, ressentimentos ou desentendimentos quando a convivência prolonga-se."
+  },
+  {
+    "Palavra": "Quanto maior é a nau, maior é a tormenta",
+    "Significado": "Quanto maior é a responsabilidade, o poder ou a posição de alguém, maiores são os desafios, dificuldades e riscos que enfrenta."
+  },
+  {
+    "Palavra": "Quanto maior é a riqueza, maior é a ambição",
+    "Significado": "Quanto mais alguém possui, mais tende a desejar, ambicionar ou querer acumular."
+  },
+  {
+    "Palavra": "Quanto maior é a ventura, menos é segura",
+    "Significado": "Quanto maior a felicidade, sorte ou prosperidade de alguém, mais vulnerável e incerta essa situação se torna. "
+  },
+  {
+    "Palavra": "Quanto mais alta é a paixão, mais baixa é a razão",
+    "Significado": "Quanto mais intensamente somos dominados por uma paixão (amor, desejo, raiva, ambição), menos espaço sobra para o raciocínio equilibrado e lógico."
+  },
+  {
+    "Palavra": "Quanto mais alto se sobe, maior queda se dá",
+    "Significado": "Quanto maior a elevação — seja em poder, riqueza, fama ou até em orgulho — mais dura e dolorosa será a queda."
+  },
+  {
+    "Palavra": "Quanto mais aprendo, menos sei",
+    "Significado": "Ao ganhar mais conhecimento, a pessoa percebe o quanto ainda desconhece, destacando a humildade intelectual e a vastidão do saber. Ligada a Sócrates, sugere que a sabedoria está em reconhecer a própria ignorância."
+  },
+  {
+    "Palavra": "Quanto mais barato está o pão, melhor canta o coração",
+    "Significado": "Quanto mais acessível se torna o necessário — neste caso, o pão — mais leve se sente o espírito, e maior é a satisfação do quotidiano."
+  },
+  {
+    "Palavra": "Quanto mais canhoto, mais maroto",
+    "Significado": "Este provérbio associa a mão esquerda à esperteza ou travessura. Antigamente, a mão esquerda tinha conotações negativas em muitas culturas, o que levou a ver os canhotos como diferentes ou mais ousados. A palavra «maroto» significa alguém astuto, brincalhão ou com manha. Hoje, o ditado é apenas uma curiosidade popular, sem base científica, reflectindo antigas crenças populares sobre caráter e lateralidade."
+  },
+  {
+    "Palavra": "Quanto mais cedência, mais exigência",
+    "Significado": "Transmite a ideia de que quem demonstra flexibilidade ou faz muitas concessões pode acabar por enfrentar maiores exigências dos outros."
+  },
+  {
+    "Palavra": "Quanto mais conheço os homens, mais gosto dos animais",
+    "Significado": "Exprime desilusão com a conduta humana e admiração pela simplicidade, lealdade e sinceridade dos animais. Reflecte a ideia de que, perante a complexidade, egoísmo ou falsidade das pessoas, os animais surgem como companheiros fiéis e confiáveis, oferecendo afeto sem segundas intenções."
+  },
+  {
+    "Palavra": "Quanto mais depressa, mais devagar",
+    "Significado": "Alerta para o perigo de agir com pressa: ao tentar apressar-se, é comum cometer erros ou criar obstáculos que tornam o progresso mais lento."
+  },
+  {
+    "Palavra": "Quanto mais há, mais se gasta",
+    "Significado": "Exprime a ideia de que a abundância tende a gerar desperdício: quanto maior a quantidade de recursos, maior a facilidade em consumi-los sem contenção."
+  },
+  {
+    "Palavra": "Quanto mais me bates, mais gosto de ti",
+    "Significado": "Exprime um paradoxo de afectos e resistência: sugere que a atenção, mesmo quando severa ou agressiva, pode reforçar sentimentos de ligação ou apego. Historicamente, reflecte ideias antigas sobre disciplina, jogo de poder ou amor conflituoso, mas hoje é lido com cautela, pois a violência não deve ser confundida com afecto."
+  },
+  {
+    "Palavra": "Quanto mais médicos, mais moléstias",
+    "Significado": "Sugere, de forma irónica, que a presença excessiva de médicos pode gerar mais diagnósticos ou problemas, reflectindo uma visão cética sobre a prática médica."
+  },
+  {
+    "Palavra": "Quanto mais pequenas são as mentes, maiores os preconceitos",
+    "Significado": "Sugere que a limitação de pensamento ou do conhecimento está frequentemente ligada à intolerância e a julgamentos precipitados. Pessoas de mente «pequenas» tendem a exagerar diferenças e a criar barreiras, enquanto mentes mais abertas mostram compreensão e flexibilidade."
+  },
+  {
+    "Palavra": "Quanto mais se tem, mais se quer",
+    "Significado": "Exprime a ideia de que a cobiça ou ambição humana é insaciável: à medida que se adquire riqueza, poder ou bens, cresce também o desejo de possuir ainda mais. É um alerta sobre a ganância e a dificuldade de contentamento."
+  },
+  {
+    "Palavra": "Quanto mais uma coisa é vedada, tanto mais é desejada",
+    "Significado": "A tendência humana valoriza aquilo que é proibido ou difícil de alcançar. A restrição aumenta a curiosidade e o apetite pelo objecto ou situação, mostrando como a proibição pode tornar algo mais atraente."
+  },
+  {
+    "Palavra": "Quanto mais vivemos, mais aprendemos",
+    "Significado": "Sublinha que a experiência da vida é a principal fonte de conhecimento e sabedoria."
+  },
+  {
+    "Palavra": "Quanto menos se pensa mais se fala",
+    "Significado": "Alerta para a tendência de falar impulsivamente ou sem reflexão."
+  },
+  {
+    "Palavra": "Quanto sabes, tanto vales",
+    "Significado": "Lembra que o conhecimento e a sabedoria são a verdadeira medida do valor de uma pessoa."
+  },
+  {
+    "Palavra": "Quase todos os nossos pesares vêm dos nossos pensares",
+    "Significado": "É uma máxima da sabedoria popular que ecoa princípios de filosofias antigas e de abordagens modernas de bem-estar. Sublinha que grande parte do sofrimento humano nasce da mente: preocupações, medos e interpretações negativas tornam-se fontes de dor, muitas vezes mais do que os acontecimentos em si. "
+  },
+  {
+    "Palavra": "Quatro olhos vêem mais do que dois",
+    "Significado": "Significa que duas pessoas, ao observarem ou julgarem algo em conjunto, têm maior capacidade de perceber detalhes ou avaliar situações do que uma só."
+  },
+  {
+    "Palavra": "Quem acerta no casar nada lhe falta acertar",
+    "Significado": "Sugere que escolher bem o cônjuge é uma das decisões mais importantes da vida."
+  },
+  {
+    "Palavra": "Quem a dois senhores quer servir, a um há-de mentir",
+    "Significado": "Alerta que, ao tentar agradar ou servir simultaneamente duas partes com interesses diferentes, é impossível não enganar uma delas."
+  },
+  {
+    "Palavra": "Quem adormece a dizer mal acorda caluniado",
+    "Significado": "Lembra que as nossas palavras têm consequências e que a maledicência pode voltar-se contra nós, incentivando prudência e boa-fé nas relações humanas."
+  },
+  {
+    "Palavra": "Quem alegre se levanta, todo o dia canta",
+    "Significado": "Sugere que começar o dia com bom ânimo e disposição positiva influencia todo o resto do dia, promovendo alegria e bem-estar."
+  },
+  {
+    "Palavra": "Quem ama a mulher casada traz a vida emprestada",
+    "Significado": "Alerta que envolver-se com alguém comprometido traz riscos e instabilidade."
+  },
+  {
+    "Palavra": "Quem ama, o longe faz perto",
+    "Significado": "Exprime que o amor tem o poder de aproximar, superar distâncias e obstáculos."
+  },
+  {
+    "Palavra": "Quem ameaça de longe, cala-se depois quando está perto",
+    "Significado": "Sugere que quem se mostra ameaçador ou arrogante à distância frequentemente perde a coragem quando confrontado de perto."
+  },
+  {
+    "Palavra": "Quem ameaça a sua ira gasta",
+    "Significado": "Quem se deixa levar pela raiva ou ameaça, sem agir de imediato, acaba por dissipar a própria fúria. "
+  },
+  {
+    "Palavra": "Quem ameaça sua ira gasta",
+    "Significado": "Quem se deixa levar pela raiva ou ameaça, sem agir de imediato, acaba por dissipar a própria fúria."
+  },
+  {
+    "Palavra": "Quem à mesa alheia come, janta e ceia com fome",
+    "Significado": "Quem depende dos recursos ou da generosidade dos outros dificilmente fica plenamente satisfeito."
+  },
+  {
+    "Palavra": "Quem anda com lobos, aprende a uivar",
+    "Significado": "A companhia que escolhemos influencia profundamente o nosso comportamento e carácter."
+  },
+  {
+    "Palavra": "Quem anda de capote no Verão, ou é pobre ou ladrão",
+    "Significado": "Sugere, com humor e ironia, que alguém vestido de forma inadequada para a estação ou situação desperta suspeitas."
+  },
+  {
+    "Palavra": "Quem ao longe vai casar ou se engana ou vai enganar",
+    "Significado": "Sugere que casamentos à distância ou com pouco conhecimento do parceiro são arriscados e podem resultar em engano ou desilusão, tanto por ignorância como por intenção de enganar."
+  },
+  {
+    "Palavra": "Quem ao moinho vai, enfarinhado sai",
+    "Significado": "Ao envolver-se numa situação ou actividade, inevitavelmente se sai com alguma marca ou consequência dessa experiência."
+  },
+  {
+    "Palavra": "Quem ao perigo corre nele morre",
+    "Significado": "Quem procura ou se expõe a situações arriscadas acaba por sofrer as consequências."
+  },
+  {
+    "Palavra": "Quem a si teme, nada mais tem a temer",
+    "Significado": "Quem se conhece bem, controla os seus impulsos e limitações, não precisa temer ameaças externas."
+  },
+  {
+    "Palavra": "Quem a tolo pede conselho ainda é mais tolo do que ele",
+    "Significado": "Quem procura orientação de alguém incapaz de dar bom conselho aumenta o risco de erro. É uma advertência sobre a importância de escolher bem a quem se recorre na procura de conselhos."
+  },
+  {
+    "Palavra": "Quem bebe e canta seu mal espanta",
+    "Significado": "Sugere que, através da bebida e do canto, as pessoas procuram esquecer ou aliviar temporariamente os seus problemas e tristezas"
+  },
+  {
+    "Palavra": "Quem bem ama bem castiga",
+    "Significado": "Significa que, no contexto do amor ou educação, a disciplina e a correcção são uma forma de cuidado. Amar verdadeiramente implica orientar, corrigir e estabelecer limites, mesmo que isso envolva repreensão."
+  },
+  {
+    "Palavra": "Quem bem manda, será bem obedecido",
+    "Significado": "Ensina que a autoridade ou liderança eficaz depende da justiça, clareza e competência de quem comanda"
+  },
+  {
+    "Palavra": "Quem bem nada não se afoga",
+    "Significado": "Quem possui habilidade, conhecimento ou preparação adequada consegue enfrentar situações difíceis sem se perder ou sofrer danos."
+  },
+  {
+    "Palavra": "Quem bem ouve bem responde",
+    "Significado": "Quem presta atenção com cuidado ao que é dito consegue responder de forma adequada e sensata."
+  },
+  {
+    "Palavra": "Quem bem quer, de longe vê",
+    "Significado": "Uma pessoa com boas intenções, ou seja, alguém que «bem quer», consegue ter uma percepção clara e antecipar os problemas e as oportunidades que surgirão no futuro, como se pudesse «ver de longe» o que está por vir. "
+  },
+  {
+    "Palavra": "Quem bem trabalhou, melhor descansou",
+    "Significado": "Uma boa dedicação e esforço numa tarefa ou actividade leva a uma recompensa mais satisfatória, que é um descanso merecido e apreciado. "
+  },
+  {
+    "Palavra": "Este jogador, é de longe, o melhor",
+    "Significado": "«É de longe» significa, «com grande diferença» ou «sem comparação»."
+  },
+  {
+    "Palavra": "Quem boa cama fizer nela se deitará",
+    "Significado": "Quem faz bem o seu trabalho ou toma boas decisões, colherá as consequências (ou frutos) do seu próprio esforço."
+  },
+  {
+    "Palavra": "Quem boceja não pode mentir: ou tem fome ou quer dormir",
+    "Significado": "Os sinais involuntários do corpo, como bocejar, revelam necessidades ou estados verdadeiros da pessoa."
+  },
+  {
+    "Palavra": "Quem brinca com o fogo, queima-se",
+    "Significado": "Quem se envolve em situações perigosas ou arriscadas acaba por sofrer as consequências."
+  },
+  {
+    "Palavra": "Quem brinca com o gato, não se queixe se é arranhado",
+    "Significado": "Quem se expõe a situações arriscadas ou provocantes não deve reclamar das consequências inevitáveis."
+  },
+  {
+    "Palavra": "Quem burro nasce, burro morre",
+    "Significado": "Algumas características ou limitações naturais são difíceis de mudar ao longo da vida."
+  },
+  {
+    "Palavra": "Quem cá fica come e bebe, e a paixão logo se vai",
+    "Significado": "Quem se acomoda e se deixa levar pelos prazeres da vida tende a ver a paixão ou entusiasmo desaparecer."
+  },
+  {
+    "Palavra": "Quem cala consente, mas nem sempre",
+    "Significado": "Embora o silêncio possa ser interpretado como aprovação, nem sempre significa concordância; às vezes a pessoa permanece calada por outros motivos."
+  },
+  {
+    "Palavra": "Quem caminha por atalhos, nunca se livra de trabalhos",
+    "Significado": "Quem procura facilidades ou corta caminhos acaba por ter mais dificuldades e trabalhos no fim. "
+  },
+  {
+    "Palavra": "Quem canta antes do almoço, chora antes do sol posto",
+    "Significado": "Alerta que a euforia prematura pode levar à decepção, lembrando que aparências enganam e que é preciso agir com prudência e esperar o momento certo antes de comemorar."
+  },
+  {
+    "Palavra": "Quem canta não assobia",
+    "Significado": "Quem está ocupado com uma tarefa ou actividade não se distrai com outra."
+  },
+  {
+    "Palavra": "Quem casa a correr, toda a vida tem para se arrepender",
+    "Significado": "Significa que tomar decisões precipitadas, especialmente no casamento, pode gerar arrependimentos duradouros."
+  },
+  {
+    "Palavra": "Quem casa filha depenado fica",
+    "Significado": "Significa que o pai da noiva arca com grandes despesas no casamento, ficando financeiramente fragilizado — um reflexo de costumes antigos em que a família da noiva suportava dote, festa e enxoval, mostrando que casar filhos sempre implicou alto custo."
+  },
+  {
+    "Palavra": "Quem casa não pensa, quem pensa não casa",
+    "Significado": "Significa que quem casa age por impulso ou emoção, enquanto quem pondera e analisa demais os aspectos do casamento, acaba por desistir de se casar devido aos potenciais problemas e complexidades"
+  },
+  {
+    "Palavra": "Quem casa por amores sempre vive com dores",
+    "Significado": "Significa que casar apenas por paixão ou sentimentos intensos pode trazer problemas e sofrimentos ao longo do tempo, já que o amor sozinho nem sempre garante harmonia, estabilidade ou compatibilidade no casamento."
+  },
+  {
+    "Palavra": "Quem ceia e logo se vai deitar, má noite há-de passar",
+    "Significado": "Comer muito e deitar-se imediatamente pode causar problemas de digestão e uma noite perturbada. "
+  },
+  {
+    "Palavra": "Quem ceia vinho almoça água",
+    "Significado": "Significa que quem exagera no consumo de vinho à noite (ceia) pode acabar por precisar de água no dia seguinte (almoço), seja por ressaca ou por moderação após o excesso."
+  },
+  {
+    "Palavra": "Quem com águas se cura pouco dura",
+    "Significado": "Alerta que soluções superficiais ou fracas não resolvem problemas de forma duradoura, destacando a importância de tratar a raiz das questões com eficácia para obter resultados estáveis e duradouros."
+  },
+  {
+    "Palavra": "Quem come a carne que roa os ossos",
+    "Significado": "Quem desfruta dos benefícios ou prazeres de algo (a carne) deve também lidar com as dificuldades ou responsabilidades que vêm com isso (os ossos)."
+  },
+  {
+    "Palavra": "Quem começa mal, acaba pior",
+    "Significado": "Iniciar algo de maneira inadequada ou descuidada tende a gerar consequências ainda piores no final."
+  },
+  {
+    "Palavra": "Quem come tudo num dia, no outro assobia",
+    "Significado": "Quem gasta ou consome tudo de uma vez, depois fica sem nada."
+  },
+  {
+    "Palavra": "Quem com o Diabo se deita com o Diabo amanhece",
+    "Significado": "Alerta que más companhias e más escolhas corrompem e trazem consequências negativas inevitáveis."
+  },
+  {
+    "Palavra": "Quem com porcos se mistura, farelo come",
+    "Significado": "Quem se envolve com más companhias ou ambientes degradantes acaba por partilhar dos mesmos hábitos, problemas ou consequências."
+  },
+  {
+    "Palavra": "Quem compra e vende, lá se entende",
+    "Significado": "Significa que nas transações, comprador e vendedor acabam por chegar a um acordo, pois ambos têm interesse em concluir o negócio"
+  },
+  {
+    "Palavra": "Quem compra o que não pode vende o que não deve",
+    "Significado": "Ao gastar dinheiro que não se tem, a pessoa acumula dívidas que a forçam a se desfazer de bens ou vender o que possui para cobrir esses gastos."
+  },
+  {
+    "Palavra": "Quem compra sem poder, vende sem querer",
+    "Significado": "Ensina que gastar além das posses leva a dívidas e à necessidade de vender o que não se deseja."
+  },
+  {
+    "Palavra": "Quem conta com a panela alheia, arrisca-se a ficar sem ceia",
+    "Significado": "Quem depende dos outros para satisfazer as próprias necessidades corre o risco de ficar desamparado."
+  },
+  {
+    "Palavra": "Quem dá antes da morte terá má sorte",
+    "Significado": "Alerta que doar ou repartir bens em vida sem cautela pode trazer ingratidão, conflitos ou prejuízos, sendo necessária prudência ao abrir mão do que se possui."
+  },
+  {
+    "Palavra": "Quem dá e torna a tirar ao inferno vai parar",
+    "Significado": "É um provérbio popular que condena de forma veemente a acção de retirar algo que já foi oferecido ou prometido. O seu significado central reside na ideia de que tal atitude é moralmente reprovável e socialmente mal vista, merecendo uma condenação severa, simbolizada pela referência ao «inferno»"
+  },
+  {
+    "Palavra": "Quem dá o pão sem castigo não vai ao paraíso",
+    "Significado": "Não basta apenas ajudar ou dar benefícios; é necessário que haja justiça, disciplina ou correcção juntamente com a ajuda. Reflecte a ideia de que as acções devem ser equilibradas e responsáveis."
+  },
+  {
+    "Palavra": "Quem dá o que pode, a mais não é obrigado",
+    "Significado": "Cada pessoa deve contribuir ou ajudar apenas na medida das suas possibilidades, sem se sentir obrigada a exceder-se."
+  },
+  {
+    "Palavra": "Quem dá para receber não dá",
+    "Significado": "Quem ajuda ou oferece algo apenas esperando retorno verdadeiro ou benefício próprio, na realidade, não está a dar de forma genuína."
+  },
+  {
+    "Palavra": "Quem deixa de ser amigo é porque nunca o foi",
+    "Significado": "Significa que a verdadeira amizade resiste ao tempo, às dificuldades e às mudanças; quem se afasta não demonstrou ser um amigo genuíno."
+  },
+  {
+    "Palavra": "Quem deixa o certo pelo incerto, nas coisas do mundo é pouco esperto",
+    "Significado": "Não é sábio trocar uma situação estável e segura por algo incerto, apenas pela esperança de que será melhor."
+  },
+  {
+    "Palavra": "Quem demanda tiver não come quando quer",
+    "Significado": "Quem tem obrigações não age quando quer, pois os compromissos limitam a liberdade."
+  },
+  {
+    "Palavra": "Quem de novo é bonitinho, de velho tem um jeitinho",
+    "Significado": "As características de uma pessoa acompanham-na ao longo da vida. Quem em jovem é bonito, em velho terá ainda algum traço de graça ou encanto «um jeitinho» que lembra a juventude."
+  },
+  {
+    "Palavra": "Quem de novo não morrer, de velho não escapa",
+    "Significado": "A morte é inevitável. Quem sobrevive à juventude não escapa da velhice e da morte."
+  },
+  {
+    "Palavra": "Quem em novo não trabalha, em velho come palha",
+    "Significado": "Quem não se esforça e trabalha na juventude sofrerá as consequências na velhice."
+  },
+  {
+    "Palavra": "Quem deu dará, quem pediu pedirá",
+    "Significado": "Os hábitos ou comportamentos repetem-se: quem costuma ajudar continuará a fazê-lo, e quem costuma pedir ou depender dos outros continuará a fazê-lo."
+  },
+  {
+    "Palavra": "Quem deve não tem razão",
+    "Significado": "Quem está em dívida ou com obrigações pendentes perde moral ou autoridade em discutir ou reclamar."
+  },
+  {
+    "Palavra": "Quem diz a verdade não merece castigo",
+    "Significado": "Quem fala a verdade não deve ser punido, pois a honestidade é um valor que merece respeito e valorização."
+  },
+  {
+    "Palavra": "Quem diz o que quer, ouve o que não quer",
+    "Significado": "Quem fala sem cuidado ou diz o que lhe apetece deve estar preparado para ouvir respostas ou consequências desagradáveis."
+  },
+  {
+    "Palavra": "Quem dorme com criança, acorda molhado",
+    "Significado": "Significa que, ao se envolver com situações ou pessoas que podem trazer problemas previsíveis, é provável que tenha de enfrentar as consequências. Literalmente, refere-se a dormir com uma criança que pode fazer xixi na cama. É um convite à cautela nas decisões."
+  },
+  {
+    "Palavra": "Quem dos outros fala e murmura, pouco pensa e muito se aventura",
+    "Significado": "Quem fala mal dos outros sem reflexão age precipitadamente e corre riscos desnecessários."
+  },
+  {
+    "Palavra": "Quem doutro se compadece, de si se lembra",
+    "Significado": "Quem sente compaixão pelos outros também se recorda das próprias dificuldades ou limitações."
+  },
+  {
+    "Palavra": "Quem do vinho é amigo, de si próprio é inimigo",
+    "Significado": "Quem é excessivamente apegado ao vinho (ou ao álcool) prejudica a si próprio. Por outras palavras, o vício ou excesso traz consequências negativas para quem o pratica."
+  },
+  {
+    "Palavra": "Quem economiza os minutos, ganha as horas",
+    "Significado": "Quem aproveita bem o tempo e não o desperdiça acaba por ganhar mais na produtividade e no rendimento."
+  },
+  {
+    "Palavra": "Quem é difamado é meio enforcado",
+    "Significado": "Quem é difamado ou caluniado sofre danos significativos na sua reputação, quase como se já estivesse castigado. A difamação tem um efeito quase tão grave quanto uma punição física."
+  },
+  {
+    "Palavra": "Quem é infeliz cai de costas e quebra o nariz",
+    "Significado": "Quem já é infeliz ou azarado tende a sofrer mais infortúnios, pois a má sorte atrai outras desgraças."
+  },
+  {
+    "Palavra": "Quem em Maio não merenda, aos finados se encomenda",
+    "Significado": "Significa que quem não aproveita as oportunidades ou momentos favoráveis (Maio, primavera, altura de abundância) pode vir a sofrer consequências mais tarde (finados, inverno, época de carência)."
+  },
+  {
+    "Palavra": "Quem em novo não trabalha, em velho dorme numa palha",
+    "Significado": "Quem não se esforça ou não trabalha quando jovem, sofrerá na velhice."
+  },
+  {
+    "Palavra": "Quem empresta a um amigo, cobra a um inimigo",
+    "Significado": "Alerta que emprestar dinheiro a um amigo pode prejudicar a amizade, transformando a relação em animosidade caso haja cobrança."
+  },
+  {
+    "Palavra": "Quem encomendou o sermão que o pague",
+    "Significado": "Quem solicita ou provoca algo deve arcar com as consequências ou custos."
+  },
+  {
+    "Palavra": "Quem envelhece, arrefece",
+    "Significado": "Com o envelhecimento diminuem a força, a energia ou o vigor, podendo referir-se tanto ao corpo como às emoções e paixões."
+  },
+  {
+    "Palavra": "Quem é pobre não tem vícios",
+    "Significado": "Quem tem poucos recursos não se pode dar ao luxo de gastar com excessos ou hábitos dispendiosos."
+  },
+  {
+    "Palavra": "Quem erra e se emenda, a Deus se encomenda",
+    "Significado": "Sugere que quem reconhece os seus erros e procura corrigi-los coloca-se sob a protecção ou perdão divino."
+  },
+  {
+    "Palavra": "Quem espera da mão alheia, mal janta e pior ceia",
+    "Significado": "Quem depende dos outros para o próprio sustento ou sucesso dificilmente terá boa sorte."
+  },
+  {
+    "Palavra": "Quem espera por sapatos de defunto, toda a vida anda descalço",
+    "Significado": "Quem depende da morte ou de bens alheios para conseguir o que quer nunca terá o que precisa."
+  },
+  {
+    "Palavra": "Quem está a bem com Deus, está a bem com todos",
+    "Significado": "Quem vive em paz consigo próprio e com a sua fé tende a manter boas relações com os outros."
+  },
+  {
+    "Palavra": "Quem está dentro é que sabe o que vai pelo convento",
+    "Significado": "Somente quem está envolvido ou participa directamente de uma situação conhece todos os detalhes e acontecimentos."
+  },
+  {
+    "Palavra": "Quem estraga velho, paga novo",
+    "Significado": "Quem destrói ou estraga algo antigo ou usado, terá de arcar com o custo de o substituir por um novo."
   }
 ]
