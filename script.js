@@ -15,7 +15,8 @@ function pesquisar(termo) {
   if (!termo) return;
 
   const resultados = dicionario.filter(item =>
-    item.Palavra.toLowerCase().includes(termo.toLowerCase())
+    item.Palavra.toLowerCase().includes(termo.toLowerCase()) ||
+    item.Significado.toLowerCase().includes(termo.toLowerCase())
   );
 
   resultados.forEach(item => {
